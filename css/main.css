@@ -1,0 +1,27 @@
+#content {
+  width: 970px;
+  margin: 0 auto;
+  text-align: center;
+}
+#controls {
+  display: inline-block;
+  margin: 0 auto;
+}
+.hide {
+  display: none;
+}
+#client-video {
+  display: block;
+  margin: 20px auto;
+  border: 1px solid #ddd;
+}
+#rendered {
+  margin: 20px auto;
+}
+#rendered h2,
+#rendered video {
+  display: block;
+}
+#rendered video {
+  margin: 20px auto;
+}
